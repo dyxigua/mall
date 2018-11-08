@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="back_dao" />
+        <module name="back_service" />
+        <module name="back_web" />
+        <module name="mall" />
+        <module name="portal_dao" />
+        <module name="portal_service" />
+        <module name="portal_web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
